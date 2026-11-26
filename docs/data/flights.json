@@ -1,6 +1,6 @@
 {
- "last_checked": "2026-11-23T15:15:18.315721+00:00",
- "last_success": "2026-11-23T15:15:18.315721+00:00",
+ "last_checked": "2026-11-26T21:42:48.140505+00:00",
+ "last_success": "2026-11-26T21:42:48.140505+00:00",
  "status": "ok",
  "origin": "TPA",
  "passengers": 2,
@@ -24,10 +24,11 @@
    "total": 340,
    "per_person": 170,
    "is_deal": false,
-   "depart": "2027-01-07",
-   "return": "2027-01-10",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CHI+on+2027-01-07+returning+2027-01-10+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CHI+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
+    170,
     170
    ]
   },
@@ -45,10 +46,11 @@
    "total": 693,
    "per_person": 346,
    "is_deal": false,
-   "depart": "2027-01-21",
-   "return": "2027-01-24",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CHA+on+2027-01-21+returning+2027-01-24+for+2+passengers",
+   "depart": "2027-01-07",
+   "return": "2027-01-10",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CHA+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
+    346,
     346
    ]
   },
@@ -63,14 +65,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 148,
-   "per_person": 74,
+   "total": 136,
+   "per_person": 68,
    "is_deal": true,
    "depart": "2027-01-07",
    "return": "2027-01-10",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+RDU+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
-    74
+    74,
+    68
    ]
   },
   {
@@ -87,10 +90,11 @@
    "total": 256,
    "per_person": 128,
    "is_deal": false,
-   "depart": "2027-01-28",
-   "return": "2027-01-31",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+RIC+on+2027-01-28+returning+2027-01-31+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+RIC+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
+    128,
     128
    ]
   },
@@ -112,6 +116,7 @@
    "return": "2027-01-10",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+DCA+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
+    178,
     178
    ]
   },
@@ -126,14 +131,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 282,
-   "per_person": 141,
+   "total": 299,
+   "per_person": 149,
    "is_deal": false,
-   "depart": "2027-02-18",
-   "return": "2027-02-21",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+IAD+on+2027-02-18+returning+2027-02-21+for+2+passengers",
+   "depart": "2027-01-07",
+   "return": "2027-01-10",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+IAD+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
-    141
+    141,
+    149
    ]
   },
   {
@@ -147,14 +153,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 634,
-   "per_person": 317,
+   "total": 774,
+   "per_person": 387,
    "is_deal": false,
    "depart": "2027-01-21",
    "return": "2027-01-24",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+SEA+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    317
+    317,
+    387
    ]
   },
   {
@@ -168,14 +175,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 630,
-   "per_person": 315,
+   "total": 658,
+   "per_person": 329,
    "is_deal": false,
-   "depart": "2027-01-07",
-   "return": "2027-01-10",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+SLC+on+2027-01-07+returning+2027-01-10+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+SLC+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    315
+    315,
+    329
    ]
   },
   {
@@ -192,10 +200,11 @@
    "total": 503,
    "per_person": 251,
    "is_deal": false,
-   "depart": "2027-01-07",
-   "return": "2027-01-10",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+PHX+on+2027-01-07+returning+2027-01-10+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+PHX+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
+    251,
     251
    ]
   },
@@ -210,14 +219,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 420,
-   "per_person": 210,
+   "total": 516,
+   "per_person": 258,
    "is_deal": false,
-   "depart": "2027-01-07",
-   "return": "2027-01-10",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LAS+on+2027-01-07+returning+2027-01-10+for+2+passengers",
+   "depart": "2027-02-11",
+   "return": "2027-02-14",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LAS+on+2027-02-11+returning+2027-02-14+for+2+passengers",
    "history": [
-    210
+    210,
+    258
    ]
   },
   {
@@ -231,14 +241,15 @@
    "max_layover": 4,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1409,
-   "per_person": 704,
+   "total": 1307,
+   "per_person": 653,
    "is_deal": false,
-   "depart": "2027-03-04",
-   "return": "2027-03-07",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+PGA+on+2027-03-04+returning+2027-03-07+for+2+passengers",
+   "depart": "2027-01-07",
+   "return": "2027-01-10",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+PGA+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
-    704
+    704,
+    653
    ]
   },
   {
@@ -255,10 +266,11 @@
    "total": 713,
    "per_person": 356,
    "is_deal": false,
-   "depart": "2027-01-07",
-   "return": "2027-01-10",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+BZN+on+2027-01-07+returning+2027-01-10+for+2+passengers",
+   "depart": "2027-01-28",
+   "return": "2027-01-31",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+BZN+on+2027-01-28+returning+2027-01-31+for+2+passengers",
    "history": [
+    356,
     356
    ]
   },
@@ -280,6 +292,7 @@
    "return": "2027-01-10",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+FCA+on+2027-01-07+returning+2027-01-10+for+2+passengers",
    "history": [
+    418,
     418
    ]
   },
@@ -297,10 +310,11 @@
    "total": 909,
    "per_person": 454,
    "is_deal": false,
-   "depart": "2027-04-15",
-   "return": "2027-04-18",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+JAC+on+2027-04-15+returning+2027-04-18+for+2+passengers",
+   "depart": "2027-04-08",
+   "return": "2027-04-11",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+JAC+on+2027-04-08+returning+2027-04-11+for+2+passengers",
    "history": [
+    454,
     454
    ]
   },
@@ -315,14 +329,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1342,
-   "per_person": 671,
+   "total": 1353,
+   "per_person": 676,
    "is_deal": false,
-   "depart": "2027-01-21",
-   "return": "2027-01-24",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+HNL+on+2027-01-21+returning+2027-01-24+for+2+passengers",
+   "depart": "2027-01-28",
+   "return": "2027-01-31",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+HNL+on+2027-01-28+returning+2027-01-31+for+2+passengers",
    "history": [
-    671
+    671,
+    676
    ]
   },
   {
@@ -336,14 +351,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 830,
-   "per_person": 415,
+   "total": 876,
+   "per_person": 438,
    "is_deal": false,
    "depart": "2027-02-11",
    "return": "2027-02-14",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+STT+on+2027-02-11+returning+2027-02-14+for+2+passengers",
    "history": [
-    415
+    415,
+    438
    ]
   },
   {
@@ -357,14 +373,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 782,
-   "per_person": 391,
+   "total": 813,
+   "per_person": 406,
    "is_deal": false,
    "depart": "2027-01-28",
    "return": "2027-01-31",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CUN+on+2027-01-28+returning+2027-01-31+for+2+passengers",
    "history": [
-    391
+    391,
+    406
    ]
   },
   {
@@ -378,14 +395,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 831,
-   "per_person": 415,
+   "total": 850,
+   "per_person": 425,
    "is_deal": false,
-   "depart": "2027-01-28",
-   "return": "2027-01-31",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+MEX+on+2027-01-28+returning+2027-01-31+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+MEX+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    415
+    415,
+    425
    ]
   },
   {
@@ -399,14 +417,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1127,
-   "per_person": 563,
+   "total": 963,
+   "per_person": 481,
    "is_deal": false,
-   "depart": "2027-01-21",
-   "return": "2027-01-24",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+BOG+on+2027-01-21+returning+2027-01-24+for+2+passengers",
+   "depart": "2027-04-08",
+   "return": "2027-04-11",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+BOG+on+2027-04-08+returning+2027-04-11+for+2+passengers",
    "history": [
-    563
+    563,
+    481
    ]
   },
   {
@@ -420,14 +439,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1222,
-   "per_person": 611,
+   "total": 1074,
+   "per_person": 537,
    "is_deal": false,
-   "depart": "2027-02-11",
-   "return": "2027-02-14",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LIM+on+2027-02-11+returning+2027-02-14+for+2+passengers",
+   "depart": "2027-03-04",
+   "return": "2027-03-07",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LIM+on+2027-03-04+returning+2027-03-07+for+2+passengers",
    "history": [
-    611
+    611,
+    537
    ]
   },
   {
@@ -441,13 +461,14 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 975,
+   "total": 974,
    "per_person": 487,
    "is_deal": false,
-   "depart": "2027-03-04",
-   "return": "2027-03-07",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+GRU+on+2027-03-04+returning+2027-03-07+for+2+passengers",
+   "depart": "2027-05-20",
+   "return": "2027-05-23",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+GRU+on+2027-05-20+returning+2027-05-23+for+2+passengers",
    "history": [
+    487,
     487
    ]
   },
@@ -465,10 +486,11 @@
    "total": 970,
    "per_person": 485,
    "is_deal": false,
-   "depart": "2027-01-21",
-   "return": "2027-01-24",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+YYC+on+2027-01-21+returning+2027-01-24+for+2+passengers",
+   "depart": "2027-01-28",
+   "return": "2027-01-31",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+YYC+on+2027-01-28+returning+2027-01-31+for+2+passengers",
    "history": [
+    485,
     485
    ]
   },
@@ -483,14 +505,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1606,
-   "per_person": 803,
+   "total": 1582,
+   "per_person": 791,
    "is_deal": false,
-   "depart": "2027-01-28",
-   "return": "2027-01-31",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LHR+on+2027-01-28+returning+2027-01-31+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+LHR+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    803
+    803,
+    791
    ]
   },
   {
@@ -504,14 +527,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1454,
-   "per_person": 727,
+   "total": 1393,
+   "per_person": 696,
    "is_deal": false,
    "depart": "2027-01-21",
    "return": "2027-01-24",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+CDG+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    727
+    727,
+    696
    ]
   },
   {
@@ -525,14 +549,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 2143,
-   "per_person": 1071,
+   "total": 2066,
+   "per_person": 1033,
    "is_deal": false,
-   "depart": "2027-03-04",
-   "return": "2027-03-07",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+AMS+on+2027-03-04+returning+2027-03-07+for+2+passengers",
+   "depart": "2027-01-21",
+   "return": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+AMS+on+2027-01-21+returning+2027-01-24+for+2+passengers",
    "history": [
-    1071
+    1071,
+    1033
    ]
   },
   {
@@ -546,14 +571,15 @@
    "max_layover": 6,
    "requested_by": "",
    "dates_checked": 16,
-   "total": 1364,
-   "per_person": 682,
+   "total": 1251,
+   "per_person": 625,
    "is_deal": false,
-   "depart": "2027-04-08",
-   "return": "2027-04-11",
-   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+MAD+on+2027-04-08+returning+2027-04-11+for+2+passengers",
+   "depart": "2027-01-28",
+   "return": "2027-01-31",
+   "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+MAD+on+2027-01-28+returning+2027-01-31+for+2+passengers",
    "history": [
-    682
+    682,
+    625
    ]
   },
   {
@@ -574,6 +600,7 @@
    "return": "",
    "link": "https://www.google.com/travel/flights?q=Flights+from+TPA+to+TYO+on+2027-09-04+one+way+for+2+passengers",
    "history": [
+    788,
     788
    ]
   }
